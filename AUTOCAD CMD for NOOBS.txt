@@ -1,0 +1,71 @@
+AUTOCAD CMD for NOOBS
+
+Limits - specifi the lower corner  0,0 enter
+	   specidi the upper limit   
+
+Delete  - Ti delete the all the drawing 
+
+LINE    - To take line
+
+OrtoMode -  Right angle line  bottom bar me hoga 90 degree line
+
+PEN CMD  -   Hand
+
+draw a line at the centre of :
+(cmd at bottom);
+click on snap cursor ; 
+5 option ftr ortho snap cursor ;
+for tangent and bsic diff functions there 
+
+
+SQUARE using Poly line
+
+Differene in sqaure and poly line
+
+Poly line ------   Ploy line select the whole one figure 
+
+Square line -------  USES
+
+in extrude cmd
+
+
+
+---- Centre line ---
+By layer properties :
+click on others
+line options 
+click on load line for centre line
+LT --- to change the scaling 
+
+offset cmd   --- Parallel Line --- specifi offset distance 
+mirror cmd
+copy cmd
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+move the screen by "PAN" command  **use to move the screen (VERY IMPORTNT)
+
+
+
+LIMITS COMMAND :
+
+
+-------------
+grid option should always be on 
+
+COPY ***
+ENTER SELECT OBJECT LIKE SCROLL ALL OVER IT AND THEN CHOOSE ANY CORNER AND THEN SCROLL ALL OVER IT AND CAN PUT THAT AT ANY CORNER TO COPY THE EXACT
+
+
+MIRRIOR
+OBJECT SELECTED
+ENTER 
+SPECIFY BASE POINT
+AND DO THE SAME AS 
+MIRRIOR LIKE CHOOSE AT THE REF LINE TO CREATE THE EXACT SAME AS BELOW OR SIDE (AS PER THE REF LINE OR MIRRIOR WHERE YOU HAVE PLACED)
+
+
+
+OFFSET CAN ALSO BE CHOOSEN 
